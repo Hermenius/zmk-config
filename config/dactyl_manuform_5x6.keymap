@@ -36,7 +36,7 @@
                 &kp LCTRL &kp LCTRL  &kp A  &kp S  &kp D  &kp F               &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp BSLH
                                             &kp LALT &kp SPACE            &kp DEL  &kp ENTER
                                             &mo LWR   &kp LGUI            &mo RSE  &kp BSPC
-                                            &kp GRAVE &kp LBKT            &kp RBKT &trans
+                                            &kp B &kp LBKT            &kp RBKT &trans
             >;
         };
 
