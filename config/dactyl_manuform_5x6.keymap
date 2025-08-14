@@ -23,7 +23,7 @@
                 &kp LCTRL &kp Z  &kp X  &kp C  &kp V  &kp B               &kp K  &kp M  &kp COMMA &kp DOT &kp FSLH &kp PG_DN
                                             &kp SPACE &kp LALT            &kp DEL  &kp ENTER
                                             &mo LWR   &kp LGUI            &mo RSE  &kp BSPC
-                                            &kp GRAVE &kp LBKT            &kp RBKT &tog WSD
+                                            &kp GRAVE &kp LBKT            &kp RBKT &tog GME
             >;
         };
 
